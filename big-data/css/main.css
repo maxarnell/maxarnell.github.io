@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+
+/* comments */
+/* Just "p" body text */
+/* p {
+  font-size: 34px;
+} */
+
+/* Style across text types */
+.body-text{
+  font-size: 34px;
+}
+
+#special {
+  background-color: #ff0000;
+}
